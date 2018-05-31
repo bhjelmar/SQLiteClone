@@ -80,6 +80,36 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/bradley.hjelmar/CLionProjects/SQLiteClone/interface/Input.c">
+			<Option target="SQLiteClone"/>
+		</Unit>
+		<Unit filename="/Users/bradley.hjelmar/CLionProjects/SQLiteClone/interface/Input.h">
+			<Option target="SQLiteClone"/>
+		</Unit>
+		<Unit filename="/Users/bradley.hjelmar/CLionProjects/SQLiteClone/interface/InputBuffer.c">
+			<Option target="SQLiteClone"/>
+		</Unit>
+		<Unit filename="/Users/bradley.hjelmar/CLionProjects/SQLiteClone/interface/InputBuffer.h">
+			<Option target="SQLiteClone"/>
+		</Unit>
+		<Unit filename="/Users/bradley.hjelmar/CLionProjects/SQLiteClone/interface/MetaCommandResult.c">
+			<Option target="SQLiteClone"/>
+		</Unit>
+		<Unit filename="/Users/bradley.hjelmar/CLionProjects/SQLiteClone/interface/MetaCommandResult.h">
+			<Option target="SQLiteClone"/>
+		</Unit>
+		<Unit filename="/Users/bradley.hjelmar/CLionProjects/SQLiteClone/interface/PreparedResult.c">
+			<Option target="SQLiteClone"/>
+		</Unit>
+		<Unit filename="/Users/bradley.hjelmar/CLionProjects/SQLiteClone/interface/PreparedResult.h">
+			<Option target="SQLiteClone"/>
+		</Unit>
+		<Unit filename="/Users/bradley.hjelmar/CLionProjects/SQLiteClone/interface/Statement.c">
+			<Option target="SQLiteClone"/>
+		</Unit>
+		<Unit filename="/Users/bradley.hjelmar/CLionProjects/SQLiteClone/interface/Statement.h">
+			<Option target="SQLiteClone"/>
+		</Unit>
 		<Unit filename="/Users/bradley.hjelmar/CLionProjects/SQLiteClone/main.c">
 			<Option target="SQLiteClone"/>
 		</Unit>

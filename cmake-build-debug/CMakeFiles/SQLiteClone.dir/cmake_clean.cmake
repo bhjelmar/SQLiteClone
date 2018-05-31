@@ -1,5 +1,10 @@
 file(REMOVE_RECURSE
   "CMakeFiles/SQLiteClone.dir/main.c.o"
+  "CMakeFiles/SQLiteClone.dir/interface/InputBuffer.c.o"
+  "CMakeFiles/SQLiteClone.dir/interface/Input.c.o"
+  "CMakeFiles/SQLiteClone.dir/interface/Statement.c.o"
+  "CMakeFiles/SQLiteClone.dir/interface/MetaCommandResult.c.o"
+  "CMakeFiles/SQLiteClone.dir/interface/PreparedResult.c.o"
   "SQLiteClone.pdb"
   "SQLiteClone"
 )

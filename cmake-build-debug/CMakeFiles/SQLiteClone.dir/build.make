@@ -81,17 +81,147 @@ CMakeFiles/SQLiteClone.dir/main.c.o.provides: CMakeFiles/SQLiteClone.dir/main.c.
 CMakeFiles/SQLiteClone.dir/main.c.o.provides.build: CMakeFiles/SQLiteClone.dir/main.c.o
 
 
+CMakeFiles/SQLiteClone.dir/interface/InputBuffer.c.o: CMakeFiles/SQLiteClone.dir/flags.make
+CMakeFiles/SQLiteClone.dir/interface/InputBuffer.c.o: ../interface/InputBuffer.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/bradley.hjelmar/CLionProjects/SQLiteClone/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/SQLiteClone.dir/interface/InputBuffer.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SQLiteClone.dir/interface/InputBuffer.c.o   -c /Users/bradley.hjelmar/CLionProjects/SQLiteClone/interface/InputBuffer.c
+
+CMakeFiles/SQLiteClone.dir/interface/InputBuffer.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/SQLiteClone.dir/interface/InputBuffer.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/bradley.hjelmar/CLionProjects/SQLiteClone/interface/InputBuffer.c > CMakeFiles/SQLiteClone.dir/interface/InputBuffer.c.i
+
+CMakeFiles/SQLiteClone.dir/interface/InputBuffer.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/SQLiteClone.dir/interface/InputBuffer.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/bradley.hjelmar/CLionProjects/SQLiteClone/interface/InputBuffer.c -o CMakeFiles/SQLiteClone.dir/interface/InputBuffer.c.s
+
+CMakeFiles/SQLiteClone.dir/interface/InputBuffer.c.o.requires:
+
+.PHONY : CMakeFiles/SQLiteClone.dir/interface/InputBuffer.c.o.requires
+
+CMakeFiles/SQLiteClone.dir/interface/InputBuffer.c.o.provides: CMakeFiles/SQLiteClone.dir/interface/InputBuffer.c.o.requires
+	$(MAKE) -f CMakeFiles/SQLiteClone.dir/build.make CMakeFiles/SQLiteClone.dir/interface/InputBuffer.c.o.provides.build
+.PHONY : CMakeFiles/SQLiteClone.dir/interface/InputBuffer.c.o.provides
+
+CMakeFiles/SQLiteClone.dir/interface/InputBuffer.c.o.provides.build: CMakeFiles/SQLiteClone.dir/interface/InputBuffer.c.o
+
+
+CMakeFiles/SQLiteClone.dir/interface/Input.c.o: CMakeFiles/SQLiteClone.dir/flags.make
+CMakeFiles/SQLiteClone.dir/interface/Input.c.o: ../interface/Input.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/bradley.hjelmar/CLionProjects/SQLiteClone/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/SQLiteClone.dir/interface/Input.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SQLiteClone.dir/interface/Input.c.o   -c /Users/bradley.hjelmar/CLionProjects/SQLiteClone/interface/Input.c
+
+CMakeFiles/SQLiteClone.dir/interface/Input.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/SQLiteClone.dir/interface/Input.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/bradley.hjelmar/CLionProjects/SQLiteClone/interface/Input.c > CMakeFiles/SQLiteClone.dir/interface/Input.c.i
+
+CMakeFiles/SQLiteClone.dir/interface/Input.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/SQLiteClone.dir/interface/Input.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/bradley.hjelmar/CLionProjects/SQLiteClone/interface/Input.c -o CMakeFiles/SQLiteClone.dir/interface/Input.c.s
+
+CMakeFiles/SQLiteClone.dir/interface/Input.c.o.requires:
+
+.PHONY : CMakeFiles/SQLiteClone.dir/interface/Input.c.o.requires
+
+CMakeFiles/SQLiteClone.dir/interface/Input.c.o.provides: CMakeFiles/SQLiteClone.dir/interface/Input.c.o.requires
+	$(MAKE) -f CMakeFiles/SQLiteClone.dir/build.make CMakeFiles/SQLiteClone.dir/interface/Input.c.o.provides.build
+.PHONY : CMakeFiles/SQLiteClone.dir/interface/Input.c.o.provides
+
+CMakeFiles/SQLiteClone.dir/interface/Input.c.o.provides.build: CMakeFiles/SQLiteClone.dir/interface/Input.c.o
+
+
+CMakeFiles/SQLiteClone.dir/interface/Statement.c.o: CMakeFiles/SQLiteClone.dir/flags.make
+CMakeFiles/SQLiteClone.dir/interface/Statement.c.o: ../interface/Statement.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/bradley.hjelmar/CLionProjects/SQLiteClone/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/SQLiteClone.dir/interface/Statement.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SQLiteClone.dir/interface/Statement.c.o   -c /Users/bradley.hjelmar/CLionProjects/SQLiteClone/interface/Statement.c
+
+CMakeFiles/SQLiteClone.dir/interface/Statement.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/SQLiteClone.dir/interface/Statement.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/bradley.hjelmar/CLionProjects/SQLiteClone/interface/Statement.c > CMakeFiles/SQLiteClone.dir/interface/Statement.c.i
+
+CMakeFiles/SQLiteClone.dir/interface/Statement.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/SQLiteClone.dir/interface/Statement.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/bradley.hjelmar/CLionProjects/SQLiteClone/interface/Statement.c -o CMakeFiles/SQLiteClone.dir/interface/Statement.c.s
+
+CMakeFiles/SQLiteClone.dir/interface/Statement.c.o.requires:
+
+.PHONY : CMakeFiles/SQLiteClone.dir/interface/Statement.c.o.requires
+
+CMakeFiles/SQLiteClone.dir/interface/Statement.c.o.provides: CMakeFiles/SQLiteClone.dir/interface/Statement.c.o.requires
+	$(MAKE) -f CMakeFiles/SQLiteClone.dir/build.make CMakeFiles/SQLiteClone.dir/interface/Statement.c.o.provides.build
+.PHONY : CMakeFiles/SQLiteClone.dir/interface/Statement.c.o.provides
+
+CMakeFiles/SQLiteClone.dir/interface/Statement.c.o.provides.build: CMakeFiles/SQLiteClone.dir/interface/Statement.c.o
+
+
+CMakeFiles/SQLiteClone.dir/interface/MetaCommandResult.c.o: CMakeFiles/SQLiteClone.dir/flags.make
+CMakeFiles/SQLiteClone.dir/interface/MetaCommandResult.c.o: ../interface/MetaCommandResult.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/bradley.hjelmar/CLionProjects/SQLiteClone/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/SQLiteClone.dir/interface/MetaCommandResult.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SQLiteClone.dir/interface/MetaCommandResult.c.o   -c /Users/bradley.hjelmar/CLionProjects/SQLiteClone/interface/MetaCommandResult.c
+
+CMakeFiles/SQLiteClone.dir/interface/MetaCommandResult.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/SQLiteClone.dir/interface/MetaCommandResult.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/bradley.hjelmar/CLionProjects/SQLiteClone/interface/MetaCommandResult.c > CMakeFiles/SQLiteClone.dir/interface/MetaCommandResult.c.i
+
+CMakeFiles/SQLiteClone.dir/interface/MetaCommandResult.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/SQLiteClone.dir/interface/MetaCommandResult.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/bradley.hjelmar/CLionProjects/SQLiteClone/interface/MetaCommandResult.c -o CMakeFiles/SQLiteClone.dir/interface/MetaCommandResult.c.s
+
+CMakeFiles/SQLiteClone.dir/interface/MetaCommandResult.c.o.requires:
+
+.PHONY : CMakeFiles/SQLiteClone.dir/interface/MetaCommandResult.c.o.requires
+
+CMakeFiles/SQLiteClone.dir/interface/MetaCommandResult.c.o.provides: CMakeFiles/SQLiteClone.dir/interface/MetaCommandResult.c.o.requires
+	$(MAKE) -f CMakeFiles/SQLiteClone.dir/build.make CMakeFiles/SQLiteClone.dir/interface/MetaCommandResult.c.o.provides.build
+.PHONY : CMakeFiles/SQLiteClone.dir/interface/MetaCommandResult.c.o.provides
+
+CMakeFiles/SQLiteClone.dir/interface/MetaCommandResult.c.o.provides.build: CMakeFiles/SQLiteClone.dir/interface/MetaCommandResult.c.o
+
+
+CMakeFiles/SQLiteClone.dir/interface/PreparedResult.c.o: CMakeFiles/SQLiteClone.dir/flags.make
+CMakeFiles/SQLiteClone.dir/interface/PreparedResult.c.o: ../interface/PreparedResult.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/bradley.hjelmar/CLionProjects/SQLiteClone/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/SQLiteClone.dir/interface/PreparedResult.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/SQLiteClone.dir/interface/PreparedResult.c.o   -c /Users/bradley.hjelmar/CLionProjects/SQLiteClone/interface/PreparedResult.c
+
+CMakeFiles/SQLiteClone.dir/interface/PreparedResult.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/SQLiteClone.dir/interface/PreparedResult.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/bradley.hjelmar/CLionProjects/SQLiteClone/interface/PreparedResult.c > CMakeFiles/SQLiteClone.dir/interface/PreparedResult.c.i
+
+CMakeFiles/SQLiteClone.dir/interface/PreparedResult.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/SQLiteClone.dir/interface/PreparedResult.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/bradley.hjelmar/CLionProjects/SQLiteClone/interface/PreparedResult.c -o CMakeFiles/SQLiteClone.dir/interface/PreparedResult.c.s
+
+CMakeFiles/SQLiteClone.dir/interface/PreparedResult.c.o.requires:
+
+.PHONY : CMakeFiles/SQLiteClone.dir/interface/PreparedResult.c.o.requires
+
+CMakeFiles/SQLiteClone.dir/interface/PreparedResult.c.o.provides: CMakeFiles/SQLiteClone.dir/interface/PreparedResult.c.o.requires
+	$(MAKE) -f CMakeFiles/SQLiteClone.dir/build.make CMakeFiles/SQLiteClone.dir/interface/PreparedResult.c.o.provides.build
+.PHONY : CMakeFiles/SQLiteClone.dir/interface/PreparedResult.c.o.provides
+
+CMakeFiles/SQLiteClone.dir/interface/PreparedResult.c.o.provides.build: CMakeFiles/SQLiteClone.dir/interface/PreparedResult.c.o
+
+
 # Object files for target SQLiteClone
 SQLiteClone_OBJECTS = \
-"CMakeFiles/SQLiteClone.dir/main.c.o"
+"CMakeFiles/SQLiteClone.dir/main.c.o" \
+"CMakeFiles/SQLiteClone.dir/interface/InputBuffer.c.o" \
+"CMakeFiles/SQLiteClone.dir/interface/Input.c.o" \
+"CMakeFiles/SQLiteClone.dir/interface/Statement.c.o" \
+"CMakeFiles/SQLiteClone.dir/interface/MetaCommandResult.c.o" \
+"CMakeFiles/SQLiteClone.dir/interface/PreparedResult.c.o"
 
 # External object files for target SQLiteClone
 SQLiteClone_EXTERNAL_OBJECTS =
 
 SQLiteClone: CMakeFiles/SQLiteClone.dir/main.c.o
+SQLiteClone: CMakeFiles/SQLiteClone.dir/interface/InputBuffer.c.o
+SQLiteClone: CMakeFiles/SQLiteClone.dir/interface/Input.c.o
+SQLiteClone: CMakeFiles/SQLiteClone.dir/interface/Statement.c.o
+SQLiteClone: CMakeFiles/SQLiteClone.dir/interface/MetaCommandResult.c.o
+SQLiteClone: CMakeFiles/SQLiteClone.dir/interface/PreparedResult.c.o
 SQLiteClone: CMakeFiles/SQLiteClone.dir/build.make
 SQLiteClone: CMakeFiles/SQLiteClone.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/bradley.hjelmar/CLionProjects/SQLiteClone/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable SQLiteClone"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/bradley.hjelmar/CLionProjects/SQLiteClone/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking C executable SQLiteClone"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/SQLiteClone.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -100,6 +230,11 @@ CMakeFiles/SQLiteClone.dir/build: SQLiteClone
 .PHONY : CMakeFiles/SQLiteClone.dir/build
 
 CMakeFiles/SQLiteClone.dir/requires: CMakeFiles/SQLiteClone.dir/main.c.o.requires
+CMakeFiles/SQLiteClone.dir/requires: CMakeFiles/SQLiteClone.dir/interface/InputBuffer.c.o.requires
+CMakeFiles/SQLiteClone.dir/requires: CMakeFiles/SQLiteClone.dir/interface/Input.c.o.requires
+CMakeFiles/SQLiteClone.dir/requires: CMakeFiles/SQLiteClone.dir/interface/Statement.c.o.requires
+CMakeFiles/SQLiteClone.dir/requires: CMakeFiles/SQLiteClone.dir/interface/MetaCommandResult.c.o.requires
+CMakeFiles/SQLiteClone.dir/requires: CMakeFiles/SQLiteClone.dir/interface/PreparedResult.c.o.requires
 
 .PHONY : CMakeFiles/SQLiteClone.dir/requires
 

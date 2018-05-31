@@ -123,6 +123,141 @@ SQLiteClone/fast:
 	$(MAKE) -f CMakeFiles/SQLiteClone.dir/build.make CMakeFiles/SQLiteClone.dir/build
 .PHONY : SQLiteClone/fast
 
+interface/Input.o: interface/Input.c.o
+
+.PHONY : interface/Input.o
+
+# target to build an object file
+interface/Input.c.o:
+	$(MAKE) -f CMakeFiles/SQLiteClone.dir/build.make CMakeFiles/SQLiteClone.dir/interface/Input.c.o
+.PHONY : interface/Input.c.o
+
+interface/Input.i: interface/Input.c.i
+
+.PHONY : interface/Input.i
+
+# target to preprocess a source file
+interface/Input.c.i:
+	$(MAKE) -f CMakeFiles/SQLiteClone.dir/build.make CMakeFiles/SQLiteClone.dir/interface/Input.c.i
+.PHONY : interface/Input.c.i
+
+interface/Input.s: interface/Input.c.s
+
+.PHONY : interface/Input.s
+
+# target to generate assembly for a file
+interface/Input.c.s:
+	$(MAKE) -f CMakeFiles/SQLiteClone.dir/build.make CMakeFiles/SQLiteClone.dir/interface/Input.c.s
+.PHONY : interface/Input.c.s
+
+interface/InputBuffer.o: interface/InputBuffer.c.o
+
+.PHONY : interface/InputBuffer.o
+
+# target to build an object file
+interface/InputBuffer.c.o:
+	$(MAKE) -f CMakeFiles/SQLiteClone.dir/build.make CMakeFiles/SQLiteClone.dir/interface/InputBuffer.c.o
+.PHONY : interface/InputBuffer.c.o
+
+interface/InputBuffer.i: interface/InputBuffer.c.i
+
+.PHONY : interface/InputBuffer.i
+
+# target to preprocess a source file
+interface/InputBuffer.c.i:
+	$(MAKE) -f CMakeFiles/SQLiteClone.dir/build.make CMakeFiles/SQLiteClone.dir/interface/InputBuffer.c.i
+.PHONY : interface/InputBuffer.c.i
+
+interface/InputBuffer.s: interface/InputBuffer.c.s
+
+.PHONY : interface/InputBuffer.s
+
+# target to generate assembly for a file
+interface/InputBuffer.c.s:
+	$(MAKE) -f CMakeFiles/SQLiteClone.dir/build.make CMakeFiles/SQLiteClone.dir/interface/InputBuffer.c.s
+.PHONY : interface/InputBuffer.c.s
+
+interface/MetaCommandResult.o: interface/MetaCommandResult.c.o
+
+.PHONY : interface/MetaCommandResult.o
+
+# target to build an object file
+interface/MetaCommandResult.c.o:
+	$(MAKE) -f CMakeFiles/SQLiteClone.dir/build.make CMakeFiles/SQLiteClone.dir/interface/MetaCommandResult.c.o
+.PHONY : interface/MetaCommandResult.c.o
+
+interface/MetaCommandResult.i: interface/MetaCommandResult.c.i
+
+.PHONY : interface/MetaCommandResult.i
+
+# target to preprocess a source file
+interface/MetaCommandResult.c.i:
+	$(MAKE) -f CMakeFiles/SQLiteClone.dir/build.make CMakeFiles/SQLiteClone.dir/interface/MetaCommandResult.c.i
+.PHONY : interface/MetaCommandResult.c.i
+
+interface/MetaCommandResult.s: interface/MetaCommandResult.c.s
+
+.PHONY : interface/MetaCommandResult.s
+
+# target to generate assembly for a file
+interface/MetaCommandResult.c.s:
+	$(MAKE) -f CMakeFiles/SQLiteClone.dir/build.make CMakeFiles/SQLiteClone.dir/interface/MetaCommandResult.c.s
+.PHONY : interface/MetaCommandResult.c.s
+
+interface/PreparedResult.o: interface/PreparedResult.c.o
+
+.PHONY : interface/PreparedResult.o
+
+# target to build an object file
+interface/PreparedResult.c.o:
+	$(MAKE) -f CMakeFiles/SQLiteClone.dir/build.make CMakeFiles/SQLiteClone.dir/interface/PreparedResult.c.o
+.PHONY : interface/PreparedResult.c.o
+
+interface/PreparedResult.i: interface/PreparedResult.c.i
+
+.PHONY : interface/PreparedResult.i
+
+# target to preprocess a source file
+interface/PreparedResult.c.i:
+	$(MAKE) -f CMakeFiles/SQLiteClone.dir/build.make CMakeFiles/SQLiteClone.dir/interface/PreparedResult.c.i
+.PHONY : interface/PreparedResult.c.i
+
+interface/PreparedResult.s: interface/PreparedResult.c.s
+
+.PHONY : interface/PreparedResult.s
+
+# target to generate assembly for a file
+interface/PreparedResult.c.s:
+	$(MAKE) -f CMakeFiles/SQLiteClone.dir/build.make CMakeFiles/SQLiteClone.dir/interface/PreparedResult.c.s
+.PHONY : interface/PreparedResult.c.s
+
+interface/Statement.o: interface/Statement.c.o
+
+.PHONY : interface/Statement.o
+
+# target to build an object file
+interface/Statement.c.o:
+	$(MAKE) -f CMakeFiles/SQLiteClone.dir/build.make CMakeFiles/SQLiteClone.dir/interface/Statement.c.o
+.PHONY : interface/Statement.c.o
+
+interface/Statement.i: interface/Statement.c.i
+
+.PHONY : interface/Statement.i
+
+# target to preprocess a source file
+interface/Statement.c.i:
+	$(MAKE) -f CMakeFiles/SQLiteClone.dir/build.make CMakeFiles/SQLiteClone.dir/interface/Statement.c.i
+.PHONY : interface/Statement.c.i
+
+interface/Statement.s: interface/Statement.c.s
+
+.PHONY : interface/Statement.s
+
+# target to generate assembly for a file
+interface/Statement.c.s:
+	$(MAKE) -f CMakeFiles/SQLiteClone.dir/build.make CMakeFiles/SQLiteClone.dir/interface/Statement.c.s
+.PHONY : interface/Statement.c.s
+
 main.o: main.c.o
 
 .PHONY : main.o
@@ -159,6 +294,21 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... SQLiteClone"
+	@echo "... interface/Input.o"
+	@echo "... interface/Input.i"
+	@echo "... interface/Input.s"
+	@echo "... interface/InputBuffer.o"
+	@echo "... interface/InputBuffer.i"
+	@echo "... interface/InputBuffer.s"
+	@echo "... interface/MetaCommandResult.o"
+	@echo "... interface/MetaCommandResult.i"
+	@echo "... interface/MetaCommandResult.s"
+	@echo "... interface/PreparedResult.o"
+	@echo "... interface/PreparedResult.i"
+	@echo "... interface/PreparedResult.s"
+	@echo "... interface/Statement.o"
+	@echo "... interface/Statement.i"
+	@echo "... interface/Statement.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
